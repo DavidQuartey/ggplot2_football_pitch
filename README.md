@@ -20,4 +20,4 @@ The data used was kind courtesy of STRATABET, who made it available to participa
 
 ### Possible Data Viz Improvements
 * Add a scale for Expected Goals (xG) to put values into context.
-* Colour path pass travels and add summary of all goal highlights as a combined static dataviz at the end of the animation by including all pass trails at the end of the animation to make pass channels to player clearer.
+* Colour path pass travels and add summary of all goal highlights as a combined static dataviz at the end of the animation to make pass channels to player clearer.
