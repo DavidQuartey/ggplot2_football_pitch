@@ -5,7 +5,7 @@
 
 This repo contains [R code](https://github.com/DavidQuartey/ggplot2_football_pitch/blob/master/statabet_pitch_dimensions.R) of STRATABET Pitch Dimensions used in my [Chance Analytics](https://chanceanalytics.wordpress.com/) Football Datavis Competition Entry.
 
-This data viz highlights the goals of the only Ghanaian footballer in the Chinese Super League, Frank Acheampong. I wanted to bring out the quality of his goals (weighted by Expected Goals) and the channels through which he’s typically fed with the ball whiles capturing this in an interesting way. The data viz works for both the average fan as well as player/opposition scouts at Football Clubs.
+The data viz highlights the goals of the only Ghanaian footballer in the Chinese Super League, Frank Acheampong. I wanted to bring out the quality of his goals (weighted by Expected Goals) and the channels through which he’s typically fed with the ball whiles capturing this in an interesting way. The data viz works for both the average fan as well as player/opposition scouts at Football Clubs.
 
 
 ![alt text](https://github.com/DavidQuartey/ggplot2_football_pitch/blob/master/chance_dataviz_competition_entry.gif)
