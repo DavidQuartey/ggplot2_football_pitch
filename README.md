@@ -11,7 +11,7 @@ The data viz highlights the goals of the only Ghanaian footballer in the Chinese
 ![alt text](https://github.com/DavidQuartey/ggplot2_football_pitch/blob/master/chance_dataviz_competition_entry.gif)
 
 ### Method
-R is used to interpolate the path the ball travels between the pass location and the shot location. This assumes the ball travels in a straight line, which may not always be the case. It also assumes the shot is directed toward the centre of the goal, though in reality, it may differ due to shot placements, Goalkeeper positional awareness and many other situational factors.
+R was used to interpolate the path the ball travels between the pass location and the shot location. This assumes the ball travels in a straight line, which may not always be the case. It also assumes the shot is directed toward the centre of the goal, though in reality, it may differ due to shot placements, Goalkeeper positional awareness and many other situational factors.
 
 Main R Packages used: `gganimate` for animating the data viz and `ggplot2` for the STRATABET Pitch Dimensions.
 
